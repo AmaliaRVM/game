@@ -6,7 +6,7 @@ body {
 	
 	background-color: #EE6262;
     background-image: linear-gradient(180deg, #ffffff, rgb(255, 255, 255, 0));
-	color: #000000;
+	color: #172733;
 
     height: 100vh;
 
@@ -38,4 +38,32 @@ footer {
     text-align: center;
     padding: 30px;
 }
+
+/* media query */
+
+@media (max-width: 600px) {
+
+    body {
+        background-color:#EE6262;
+        color: #172733;
+
+        font-size: 18px;
+
+    }
+
+    h1 {
+
+        font-size: 24px;
+
+    }
+
+    h1,p {
+
+        width: 320px;
+
+    }
+
+}
+
+
 

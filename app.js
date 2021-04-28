@@ -160,8 +160,10 @@ const data = [
 
 ]
 
-const reload = document.getElementById('re');
-reload.addEventListener('click', function(){
+const re = document.getElementById('re');
+console.log(re)
+re.addEventListener('click', function(){
+    console.log('click')
     location.reload()
 })
 

@@ -156,11 +156,14 @@ const data = [
 "Claim",
 "Artischocken",
 "Repello",
-"Stone Age"
+"Stone Age" 
 
 ]
 
-
+const reload = document.getElementById('re');
+reload.addEventListener('click', function(){
+    location.reload()
+})
 
 const getGame = function () {
 

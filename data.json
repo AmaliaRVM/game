@@ -1,0 +1,1438 @@
+{
+    "7 Wonders": {
+        "name": "7 Wonders",
+        "player min": " 3",
+        "player max": " 7",
+        "game length": " medium",
+        "keywords": [
+            " drafting",
+            "cards"
+        ]
+    },
+    "7 Wonders Duel": {
+        "name": "7 Wonders Duel",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " drafting",
+            "cards"
+        ]
+    },
+    "Forbidden Desert": {
+        "name": "Forbidden Desert",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " cooperative",
+            "tiles"
+        ]
+    },
+    "Race for the galaxy + 2": {
+        "name": "Race for the galaxy + 2",
+        "player min": " 1",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "engine building"
+        ]
+    },
+    "Bang + 1": {
+        "name": "Bang + 1",
+        "player min": " 4",
+        "player max": " 7",
+        "game length": " medium",
+        "keywords": [
+            " player elimination",
+            "cards"
+        ]
+    },
+    "Bang Duel": {
+        "name": "Bang Duel",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Compatibility": {
+        "name": "Compatibility",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " cards",
+            "association",
+            "words"
+        ]
+    },
+    "Game of Cats": {
+        "name": "Game of Cats",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Code Names": {
+        "name": "Code Names",
+        "player min": " 4",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "social deception",
+            "words"
+        ]
+    },
+    "Code names Duet": {
+        "name": "Code names Duet",
+        "player min": " 2",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " cooperative",
+            "cards",
+            "words",
+            "social deception"
+        ]
+    },
+    "Code Names Pictures": {
+        "name": "Code Names Pictures",
+        "player min": " 4",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " social deception",
+            "cards",
+            "pictures"
+        ]
+    },
+    "Okiya": {
+        "name": "Okiya",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " tiles"
+        ]
+    },
+    "Spy Fall": {
+        "name": "Spy Fall",
+        "player min": " 3",
+        "player max": " 8",
+        "game length": " short",
+        "keywords": [
+            " social deception",
+            "cards"
+        ]
+    },
+    "Cosmic Encounter + 1": {
+        "name": "Cosmic Encounter + 1",
+        "player min": " 3",
+        "player max": " 6",
+        "game length": " long",
+        "keywords": [
+            " war",
+            "player elimination"
+        ]
+    },
+    "Cosmic Encounter Duel": {
+        "name": "Cosmic Encounter Duel",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " war",
+            "cards"
+        ]
+    },
+    "Ingenious travel edition": {
+        "name": "Ingenious travel edition",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "The Lost Expedition": {
+        "name": "The Lost Expedition",
+        "player min": " 1",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " thematic",
+            "cards",
+            "cooperative"
+        ]
+    },
+    "The Bloody Inn": {
+        "name": "The Bloody Inn",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Tally Ho": {
+        "name": "Tally Ho",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " tiles"
+        ]
+    },
+    "Pylos": {
+        "name": "Pylos",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "The Hare and the Tortoise": {
+        "name": "The Hare and the Tortoise",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Avalon": {
+        "name": "Avalon",
+        "player min": " 5",
+        "player max": " 10",
+        "game length": " medium",
+        "keywords": [
+            " semi cooperative"
+        ]
+    },
+    "Cartograph": {
+        "name": "Cartograph",
+        "player min": " 1",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " roll and write"
+        ]
+    },
+    "Hotshots": {
+        "name": "Hotshots",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cooperative"
+        ]
+    },
+    "Century Eastern Wonders": {
+        "name": "Century Eastern Wonders",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " engine building"
+        ]
+    },
+    "Agricola + 1": {
+        "name": "Agricola + 1",
+        "player min": " 1",
+        "player max": " 5",
+        "game length": " long",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Space Alert": {
+        "name": "Space Alert",
+        "player min": " 1",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " real time",
+            "cooperative"
+        ]
+    },
+    "Istanbul": {
+        "name": "Istanbul",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Dots": {
+        "name": "Dots",
+        "player min": " 1",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " abstract",
+            "cards"
+        ]
+    },
+    "Secrets": {
+        "name": "Secrets",
+        "player min": " 4",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " semi cooperative"
+        ]
+    },
+    "Mascarade": {
+        "name": "Mascarade",
+        "player min": " 2",
+        "player max": " 13",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Jenga": {
+        "name": "Jenga",
+        "player min": " 1",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " dexterity"
+        ]
+    },
+    "Labyrith": {
+        "name": "Labyrith",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " tiles"
+        ]
+    },
+    "Fresko + 3": {
+        "name": "Fresko + 3",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Room 25 + 1": {
+        "name": "Room 25 + 1",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " tiles"
+        ]
+    },
+    "Mysterium + 2": {
+        "name": "Mysterium + 2",
+        "player min": " 3",
+        "player max": " 7",
+        "game length": " medium",
+        "keywords": [
+            " cooperative"
+        ]
+    },
+    "Roll for the Galaxy + 1": {
+        "name": "Roll for the Galaxy + 1",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " dice"
+        ]
+    },
+    "Mr Jack + 1": {
+        "name": "Mr Jack + 1",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Time Stories": {
+        "name": "Time Stories",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " storry"
+        ]
+    },
+    "Mountain of Madness": {
+        "name": "Mountain of Madness",
+        "player min": " 3",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " party"
+        ]
+    },
+    "Camel Up + 1": {
+        "name": "Camel Up + 1",
+        "player min": " 2",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Ricochet Robots": {
+        "name": "Ricochet Robots",
+        "player min": " 1",
+        "player max": " 8",
+        "game length": " short",
+        "keywords": [
+            " puzzle"
+        ]
+    },
+    "Kingdom Builder": {
+        "name": "Kingdom Builder",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " area control"
+        ]
+    },
+    "Keltis": {
+        "name": "Keltis",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Arctic Scavenger + 2": {
+        "name": "Arctic Scavenger + 2",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " deck building",
+            "cards"
+        ]
+    },
+    "Cronicals of Crime + 2": {
+        "name": "Cronicals of Crime + 2",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " story"
+        ]
+    },
+    "Pagoda": {
+        "name": "Pagoda",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Flash Point + 2": {
+        "name": "Flash Point + 2",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " cooperative"
+        ]
+    },
+    "Pandemic + 2": {
+        "name": "Pandemic + 2",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " cooperative"
+        ]
+    },
+    "Pandemic Rapid Response": {
+        "name": "Pandemic Rapid Response",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " cooperative",
+            "real time"
+        ]
+    },
+    "Five Tribes": {
+        "name": "Five Tribes",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " kahala type"
+        ]
+    },
+    "Rokoko": {
+        "name": "Rokoko",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " long",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Airlines": {
+        "name": "Airlines",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " stock market"
+        ]
+    },
+    "Robinson Crusoe": {
+        "name": "Robinson Crusoe",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " story",
+            "cooperative"
+        ]
+    },
+    "Village": {
+        "name": "Village",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Black Friday": {
+        "name": "Black Friday",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " stock market"
+        ]
+    },
+    "Captain Sonar": {
+        "name": "Captain Sonar",
+        "player min": " 2",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " semi cooperative",
+            "thematic"
+        ]
+    },
+    "Robo Rally": {
+        "name": "Robo Rally",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " thematic",
+            "programming"
+        ]
+    },
+    "Tzolkin + 1": {
+        "name": "Tzolkin + 1",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Nations the Dice Game": {
+        "name": "Nations the Dice Game",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " dice"
+        ]
+    },
+    "Concept": {
+        "name": "Concept",
+        "player min": " 2",
+        "player max": " 8",
+        "game length": " short",
+        "keywords": [
+            " cooperative",
+            "pictures"
+        ]
+    },
+    "Steamrollers": {
+        "name": "Steamrollers",
+        "player min": " 1",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " train",
+            "roll and write"
+        ]
+    },
+    "Forbidden Island": {
+        "name": "Forbidden Island",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cooperative",
+            "tiles"
+        ]
+    },
+    "Story Cubes": {
+        "name": "Story Cubes",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " short",
+        "keywords": [
+            " story",
+            "cooperative"
+        ]
+    },
+    "Tsuro of the Seas": {
+        "name": "Tsuro of the Seas",
+        "player min": " 2",
+        "player max": " 8",
+        "game length": " short",
+        "keywords": [
+            " tiles"
+        ]
+    },
+    "Magic Maze + 1": {
+        "name": "Magic Maze + 1",
+        "player min": " 1",
+        "player max": " 8",
+        "game length": " short",
+        "keywords": [
+            " real time",
+            "cooperative"
+        ]
+    },
+    "Ticket to Ride Europe": {
+        "name": "Ticket to Ride Europe",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " train"
+        ]
+    },
+    "Ticket to Ride New York": {
+        "name": "Ticket to Ride New York",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " train"
+        ]
+    },
+    "Perudo": {
+        "name": "Perudo",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " dice"
+        ]
+    },
+    "Skulls": {
+        "name": "Skulls",
+        "player min": " 3",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " poker"
+        ]
+    },
+    "Friday": {
+        "name": "Friday",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Nuns on the Run": {
+        "name": "Nuns on the Run",
+        "player min": " 3",
+        "player max": " 7",
+        "game length": " medium",
+        "keywords": [
+            " semi cooperative"
+        ]
+    },
+    "Quoridor": {
+        "name": "Quoridor",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Katamino": {
+        "name": "Katamino",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Saboteur + 1": {
+        "name": "Saboteur + 1",
+        "player min": " 2",
+        "player max": " 10",
+        "game length": " medium",
+        "keywords": [
+            " semi cooperative"
+        ]
+    },
+    "Dobble": {
+        "name": "Dobble",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " pictures"
+        ]
+    },
+    "Tangram": {
+        "name": "Tangram",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Rush Hour": {
+        "name": "Rush Hour",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " puzzle"
+        ]
+    },
+    "Anti Virus": {
+        "name": "Anti Virus",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " abstract",
+            "puzzle"
+        ]
+    },
+    "Tantrix": {
+        "name": "Tantrix",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " abstract",
+            "tiles"
+        ]
+    },
+    "solo game with rotating pices": {
+        "name": "solo game with rotating pices",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " puzzle"
+        ]
+    },
+    "Silver and Gold": {
+        "name": "Silver and Gold",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " roll and write",
+            "cards"
+        ]
+    },
+    "Maquis": {
+        "name": "Maquis",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " medium",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Carcasonne + 5": {
+        "name": "Carcasonne + 5",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " tiles"
+        ]
+    },
+    "Brains Japones Garden": {
+        "name": "Brains Japones Garden",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Not Alone": {
+        "name": "Not Alone",
+        "player min": " 2",
+        "player max": " 7",
+        "game length": " medium",
+        "keywords": [
+            " semi cooperative"
+        ]
+    },
+    "Condottiere": {
+        "name": "Condottiere",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " area control"
+        ]
+    },
+    "Epic Galaxies": {
+        "name": "Epic Galaxies",
+        "player min": " 1",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "dice"
+        ]
+    },
+    "Epic Kingdoms": {
+        "name": "Epic Kingdoms",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " area control"
+        ]
+    },
+    "Epic Quest": {
+        "name": "Epic Quest",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Epic Mechs": {
+        "name": "Epic Mechs",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " area control"
+        ]
+    },
+    "Epic Zombie": {
+        "name": "Epic Zombie",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " semi cooperative"
+        ]
+    },
+    "One Deck Dungeon": {
+        "name": "One Deck Dungeon",
+        "player min": " 1",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " dice"
+        ]
+    },
+    "Bandido": {
+        "name": "Bandido",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Kuhhandel Master": {
+        "name": "Kuhhandel Master",
+        "player min": " 3",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Schotten Totten": {
+        "name": "Schotten Totten",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " cards",
+            "poker"
+        ]
+    },
+    "The Game": {
+        "name": "The Game",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "cooperative"
+        ]
+    },
+    "Onirim": {
+        "name": "Onirim",
+        "player min": " 1",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " pictures",
+            "cards",
+            "cooperative"
+        ]
+    },
+    "Railroad Ink": {
+        "name": "Railroad Ink",
+        "player min": " 1",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " trains",
+            "roll and write"
+        ]
+    },
+    "Hack Trick": {
+        "name": "Hack Trick",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Citadels": {
+        "name": "Citadels",
+        "player min": " 3",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Coup + 1": {
+        "name": "Coup + 1",
+        "player min": " 3",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " social deception",
+            "poker"
+        ]
+    },
+    "Doodle City": {
+        "name": "Doodle City",
+        "player min": " 1",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " roll and write"
+        ]
+    },
+    "Innovation": {
+        "name": "Innovation",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Amundsen vs Scott": {
+        "name": "Amundsen vs Scott",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Iota": {
+        "name": "Iota",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Imagine": {
+        "name": "Imagine",
+        "player min": " 3",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " pictures",
+            "party"
+        ]
+    },
+    "Palm Island": {
+        "name": "Palm Island",
+        "player min": " 1",
+        "player max": " 1",
+        "game length": " short",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Sherlock Holmes": {
+        "name": "Sherlock Holmes",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " story",
+            "deception"
+        ]
+    },
+    "Roll through the ages Bronce age": {
+        "name": "Roll through the ages Bronce age",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " roll and write"
+        ]
+    },
+    "No siesta": {
+        "name": "No siesta",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " roll and write"
+        ]
+    },
+    "Onitama": {
+        "name": "Onitama",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Steam + 2": {
+        "name": "Steam + 2",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " long",
+        "keywords": [
+            " train",
+            "stock market"
+        ]
+    },
+    "Power Grid + 3": {
+        "name": "Power Grid + 3",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " long",
+        "keywords": [
+            " strategy",
+            "stock market"
+        ]
+    },
+    "Yinsh": {
+        "name": "Yinsh",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Glen More": {
+        "name": "Glen More",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Targi": {
+        "name": "Targi",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Flux Monty Python": {
+        "name": "Flux Monty Python",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Soundiculous": {
+        "name": "Soundiculous",
+        "player min": " 2",
+        "player max": " 8",
+        "game length": " short",
+        "keywords": [
+            " cards",
+            "party"
+        ]
+    },
+    "Crononauts + 1": {
+        "name": "Crononauts + 1",
+        "player min": " 1",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "The mind": {
+        "name": "The mind",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " short",
+        "keywords": [
+            " cards",
+            "cooperative"
+        ]
+    },
+    "Qwirkle cards": {
+        "name": "Qwirkle cards",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Simply Ingenious Cards": {
+        "name": "Simply Ingenious Cards",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " tiles"
+        ]
+    },
+    "Cafe International Cards": {
+        "name": "Cafe International Cards",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Galaxy Trucker + 1": {
+        "name": "Galaxy Trucker + 1",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " long",
+        "keywords": [
+            " construction"
+        ]
+    },
+    "Catan The fast Card Game": {
+        "name": "Catan The fast Card Game",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Hanabi": {
+        "name": "Hanabi",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "cooperative"
+        ]
+    },
+    "Al Carbone": {
+        "name": "Al Carbone",
+        "player min": " 1",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Wizard Extreme": {
+        "name": "Wizard Extreme",
+        "player min": " 3",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " trick taking",
+            "cards"
+        ]
+    },
+    "Le Havre": {
+        "name": "Le Havre",
+        "player min": " 1",
+        "player max": " 5",
+        "game length": " long",
+        "keywords": [
+            " worker placement"
+        ]
+    },
+    "Thurn and Taxis": {
+        "name": "Thurn and Taxis",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " trains"
+        ]
+    },
+    "K2": {
+        "name": "K2",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Colt Express": {
+        "name": "Colt Express",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " programming",
+            "thematic"
+        ]
+    },
+    "Small World Underground": {
+        "name": "Small World Underground",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " area control"
+        ]
+    },
+    "Fog of Love + 3": {
+        "name": "Fog of Love + 3",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " long",
+        "keywords": [
+            " story"
+        ]
+    },
+    "The Crew": {
+        "name": "The Crew",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " short",
+        "keywords": [
+            " cards",
+            "trick taking",
+            "cooperative"
+        ]
+    },
+    "Clank in Space": {
+        "name": "Clank in Space",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " deck building"
+        ]
+    },
+    "Gravity Super Star": {
+        "name": "Gravity Super Star",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " thematic"
+        ]
+    },
+    "Imperial Settlers of the North": {
+        "name": "Imperial Settlers of the North",
+        "player min": " 1",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "drafting"
+        ]
+    },
+    "Love Letter": {
+        "name": "Love Letter",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " short",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Point Salad": {
+        "name": "Point Salad",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " short",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Fox in the Forest": {
+        "name": "Fox in the Forest",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " trick taking",
+            "cards"
+        ]
+    },
+    "Imhotep Duel": {
+        "name": "Imhotep Duel",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "King of New York": {
+        "name": "King of New York",
+        "player min": " 2",
+        "player max": " 6",
+        "game length": " medium",
+        "keywords": [
+            " party"
+        ]
+    },
+    "Detective": {
+        "name": "Detective",
+        "player min": " 1",
+        "player max": " 3",
+        "game length": " long",
+        "keywords": [
+            " crime",
+            "story"
+        ]
+    },
+    "It's a wonderful world + 1": {
+        "name": "It's a wonderful world + 1",
+        "player min": " 2",
+        "player max": " 5",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "drafting"
+        ]
+    },
+    "Ohanami": {
+        "name": "Ohanami",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Decrypto": {
+        "name": "Decrypto",
+        "player min": " 4",
+        "player max": " 8",
+        "game length": " medium",
+        "keywords": [
+            " social deception",
+            "party"
+        ]
+    },
+    "Harry Potter Hogwards Battle Defense against the Dark Arts": {
+        "name": "Harry Potter Hogwards Battle Defense against the Dark Arts",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " medium",
+        "keywords": [
+            " cards",
+            "deck building"
+        ]
+    },
+    "Claim + 3": {
+        "name": "Claim + 3",
+        "player min": " 2",
+        "player max": " 2",
+        "game length": " short",
+        "keywords": [
+            " cards",
+            "trick taking"
+        ]
+    },
+    "Artischocken": {
+        "name": "Artischocken",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " short",
+        "keywords": [
+            " cards"
+        ]
+    },
+    "Repello": {
+        "name": "Repello",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " abstract"
+        ]
+    },
+    "Stone Age": {
+        "name": "Stone Age",
+        "player min": " 2",
+        "player max": " 4",
+        "game length": " medium",
+        "keywords": [
+            " worker placement"
+        ]
+    }
+}

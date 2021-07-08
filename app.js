@@ -1,5 +1,6 @@
-const gameTag = document.querySelector("h2");
-const playersTag = document.querySelector("p");
+const gameTag = document.querySelector("h3");
+const timeTag = document.getElementById("time");
+const playersTag = document.getElementById("player");
 const randomTag = document.querySelector("footer img");
 
 let data = [];
@@ -27,6 +28,7 @@ const getGame = function (data) {
         console.log(randomGame.name)
         
         gameTag.innerHTML = randomGame.name;
+        timeTag.innerHTML = randomTag.gameLength;
         playersTag.innerHTML = randomGame.playerMin;
     }
 

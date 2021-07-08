@@ -16,9 +16,6 @@ h1 {
     font-size: 41px;
 }
 
-h1, p {
-    width: 640px;
-}
 
 section {
     display: flex;

@@ -28,7 +28,7 @@ const getGame = function (data) {
         console.log(randomGame.name)
         
         gameTag.innerHTML = randomGame.name;
-        timeTag.innerHTML = randomTag.gameLength;
+        timeTag.innerHTML = randomGame.gameLength;
         playersTag.innerHTML = randomGame.playerMin;
     }
 

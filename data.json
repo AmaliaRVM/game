@@ -1,7 +1,7 @@
-{
-    "games":{
+[
+    
 
-        "7 Wonders": {
+        {
             "name": "7 Wonders",
             "playerMin": " 3",
             "playerMax": " 7",
@@ -11,7 +11,7 @@
                 "cards"
             ]
         },
-        "7 Wonders Duel": {
+        {
             "name": "7 Wonders Duel",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -21,7 +21,7 @@
                 "cards"
             ]
         },
-        "Forbidden Desert": {
+        {
             "name": "Forbidden Desert",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -31,7 +31,7 @@
                 "tiles"
             ]
         },
-        "Race for the galaxy + 2": {
+        {
             "name": "Race for the galaxy + 2",
             "playerMin": " 1",
             "playerMax": " 6",
@@ -41,7 +41,7 @@
                 "engine building"
             ]
         },
-        "Bang + 1": {
+        {
             "name": "Bang + 1",
             "playerMin": " 4",
             "playerMax": " 7",
@@ -51,7 +51,7 @@
                 "cards"
             ]
         },
-        "Bang Duel": {
+        {
             "name": "Bang Duel",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -60,7 +60,7 @@
                 " cards"
             ]
         },
-        "Compatibility": {
+        {
             "name": "Compatibility",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -71,7 +71,7 @@
                 "words"
             ]
         },
-        "Game of Cats": {
+        {
             "name": "Game of Cats",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -80,7 +80,7 @@
                 " thematic"
             ]
         },
-        "Code Names": {
+        {
             "name": "Code Names",
             "playerMin": " 4",
             "playerMax": " 8",
@@ -91,7 +91,7 @@
                 "words"
             ]
         },
-        "Code names Duet": {
+        {
             "name": "Code names Duet",
             "playerMin": " 2",
             "playerMax": " 8",
@@ -103,7 +103,7 @@
                 "social deception"
             ]
         },
-        "Code Names Pictures": {
+        {
             "name": "Code Names Pictures",
             "playerMin": " 4",
             "playerMax": " 8",
@@ -114,7 +114,7 @@
                 "pictures"
             ]
         },
-        "Okiya": {
+        {
             "name": "Okiya",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -123,7 +123,7 @@
                 " tiles"
             ]
         },
-        "Spy Fall": {
+        {
             "name": "Spy Fall",
             "playerMin": " 3",
             "playerMax": " 8",
@@ -133,7 +133,7 @@
                 "cards"
             ]
         },
-        "Cosmic Encounter + 1": {
+        {
             "name": "Cosmic Encounter + 1",
             "playerMin": " 3",
             "playerMax": " 6",
@@ -143,7 +143,7 @@
                 "player elimination"
             ]
         },
-        "Cosmic Encounter Duel": {
+        {
             "name": "Cosmic Encounter Duel",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -153,7 +153,7 @@
                 "cards"
             ]
         },
-        "Ingenious travel edition": {
+        {
             "name": "Ingenious travel edition",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -162,7 +162,7 @@
                 " abstract"
             ]
         },
-        "The Lost Expedition": {
+        {
             "name": "The Lost Expedition",
             "playerMin": " 1",
             "playerMax": " 2",
@@ -173,7 +173,7 @@
                 "cooperative"
             ]
         },
-        "The Bloody Inn": {
+        {
             "name": "The Bloody Inn",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -182,7 +182,7 @@
                 " cards"
             ]
         },
-        "Tally Ho": {
+        {
             "name": "Tally Ho",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -191,7 +191,7 @@
                 " tiles"
             ]
         },
-        "Pylos": {
+        {
             "name": "Pylos",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -200,7 +200,7 @@
                 " abstract"
             ]
         },
-        "The Hare and the Tortoise": {
+        {
             "name": "The Hare and the Tortoise",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -209,7 +209,7 @@
                 " thematic"
             ]
         },
-        "Avalon": {
+        {
             "name": "Avalon",
             "playerMin": " 5",
             "playerMax": " 10",
@@ -218,7 +218,7 @@
                 " semi cooperative"
             ]
         },
-        "Cartograph": {
+        {
             "name": "Cartograph",
             "playerMin": " 1",
             "playerMax": " 6",
@@ -227,7 +227,7 @@
                 " roll and write"
             ]
         },
-        "Hotshots": {
+        {
             "name": "Hotshots",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -236,7 +236,7 @@
                 " cooperative"
             ]
         },
-        "Century Eastern Wonders": {
+        {
             "name": "Century Eastern Wonders",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -245,7 +245,7 @@
                 " engine building"
             ]
         },
-        "Agricola + 1": {
+        {
             "name": "Agricola + 1",
             "playerMin": " 1",
             "playerMax": " 5",
@@ -254,7 +254,7 @@
                 " worker placement"
             ]
         },
-        "Space Alert": {
+        {
             "name": "Space Alert",
             "playerMin": " 1",
             "playerMax": " 5",
@@ -264,7 +264,7 @@
                 "cooperative"
             ]
         },
-        "Istanbul": {
+        {
             "name": "Istanbul",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -273,7 +273,7 @@
                 " worker placement"
             ]
         },
-        "Dots": {
+        {
             "name": "Dots",
             "playerMin": " 1",
             "playerMax": " 6",
@@ -283,7 +283,7 @@
                 "cards"
             ]
         },
-        "Secrets": {
+        {
             "name": "Secrets",
             "playerMin": " 4",
             "playerMax": " 8",
@@ -292,7 +292,7 @@
                 " semi cooperative"
             ]
         },
-        "Mascarade": {
+        {
             "name": "Mascarade",
             "playerMin": " 2",
             "playerMax": " 13",
@@ -301,7 +301,7 @@
                 " cards"
             ]
         },
-        "Jenga": {
+        {
             "name": "Jenga",
             "playerMin": " 1",
             "playerMax": " 6",
@@ -310,7 +310,7 @@
                 " dexterity"
             ]
         },
-        "Labyrith": {
+        {
             "name": "Labyrith",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -319,7 +319,7 @@
                 " tiles"
             ]
         },
-        "Fresko + 3": {
+        {
             "name": "Fresko + 3",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -328,7 +328,7 @@
                 " thematic"
             ]
         },
-        "Room 25 + 1": {
+        {
             "name": "Room 25 + 1",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -337,7 +337,7 @@
                 " tiles"
             ]
         },
-        "Mysterium + 2": {
+        {
             "name": "Mysterium + 2",
             "playerMin": " 3",
             "playerMax": " 7",
@@ -346,7 +346,7 @@
                 " cooperative"
             ]
         },
-        "Roll for the Galaxy + 1": {
+        {
             "name": "Roll for the Galaxy + 1",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -355,7 +355,7 @@
                 " dice"
             ]
         },
-        "Mr Jack + 1": {
+        {
             "name": "Mr Jack + 1",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -364,7 +364,7 @@
                 " thematic"
             ]
         },
-        "Time Stories": {
+        {
             "name": "Time Stories",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -373,7 +373,7 @@
                 " storry"
             ]
         },
-        "Mountain of Madness": {
+        {
             "name": "Mountain of Madness",
             "playerMin": " 3",
             "playerMax": " 5",
@@ -382,7 +382,7 @@
                 " party"
             ]
         },
-        "Camel Up + 1": {
+        {
             "name": "Camel Up + 1",
             "playerMin": " 2",
             "playerMax": " 8",
@@ -391,7 +391,7 @@
                 " thematic"
             ]
         },
-        "Ricochet Robots": {
+        {
             "name": "Ricochet Robots",
             "playerMin": " 1",
             "playerMax": " 8",
@@ -400,7 +400,7 @@
                 " puzzle"
             ]
         },
-        "Kingdom Builder": {
+        {
             "name": "Kingdom Builder",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -409,7 +409,7 @@
                 " area control"
             ]
         },
-        "Keltis": {
+        {
             "name": "Keltis",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -418,7 +418,7 @@
                 " abstract"
             ]
         },
-        "Arctic Scavenger + 2": {
+        {
             "name": "Arctic Scavenger + 2",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -428,7 +428,7 @@
                 "cards"
             ]
         },
-        "Cronicals of Crime + 2": {
+        {
             "name": "Cronicals of Crime + 2",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -437,7 +437,7 @@
                 " story"
             ]
         },
-        "Pagoda": {
+        {
             "name": "Pagoda",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -446,7 +446,7 @@
                 " abstract"
             ]
         },
-        "Flash Point + 2": {
+        {
             "name": "Flash Point + 2",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -455,7 +455,7 @@
                 " cooperative"
             ]
         },
-        "Pandemic + 2": {
+        {
             "name": "Pandemic + 2",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -464,7 +464,7 @@
                 " cooperative"
             ]
         },
-        "Pandemic Rapid Response": {
+        {
             "name": "Pandemic Rapid Response",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -474,7 +474,7 @@
                 "real time"
             ]
         },
-        "Five Tribes": {
+        {
             "name": "Five Tribes",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -483,7 +483,7 @@
                 " kahala type"
             ]
         },
-        "Rokoko": {
+        {
             "name": "Rokoko",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -492,7 +492,7 @@
                 " worker placement"
             ]
         },
-        "Airlines": {
+        {
             "name": "Airlines",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -501,7 +501,7 @@
                 " stock market"
             ]
         },
-        "Robinson Crusoe": {
+        {
             "name": "Robinson Crusoe",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -511,7 +511,7 @@
                 "cooperative"
             ]
         },
-        "Village": {
+        {
             "name": "Village",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -520,7 +520,7 @@
                 " worker placement"
             ]
         },
-        "Black Friday": {
+        {
             "name": "Black Friday",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -529,7 +529,7 @@
                 " stock market"
             ]
         },
-        "Captain Sonar": {
+        {
             "name": "Captain Sonar",
             "playerMin": " 2",
             "playerMax": " 8",
@@ -539,7 +539,7 @@
                 "thematic"
             ]
         },
-        "Robo Rally": {
+        {
             "name": "Robo Rally",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -549,7 +549,7 @@
                 "programming"
             ]
         },
-        "Tzolkin + 1": {
+        {
             "name": "Tzolkin + 1",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -558,7 +558,7 @@
                 " worker placement"
             ]
         },
-        "Nations the Dice Game": {
+        {
             "name": "Nations the Dice Game",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -567,7 +567,7 @@
                 " dice"
             ]
         },
-        "Concept": {
+        {
             "name": "Concept",
             "playerMin": " 2",
             "playerMax": " 8",
@@ -577,7 +577,7 @@
                 "pictures"
             ]
         },
-        "Steamrollers": {
+        {
             "name": "Steamrollers",
             "playerMin": " 1",
             "playerMax": " 5",
@@ -587,7 +587,7 @@
                 "roll and write"
             ]
         },
-        "Forbidden Island": {
+        {
             "name": "Forbidden Island",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -597,7 +597,7 @@
                 "tiles"
             ]
         },
-        "Story Cubes": {
+        {
             "name": "Story Cubes",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -607,7 +607,7 @@
                 "cooperative"
             ]
         },
-        "Tsuro of the Seas": {
+        {
             "name": "Tsuro of the Seas",
             "playerMin": " 2",
             "playerMax": " 8",
@@ -616,7 +616,7 @@
                 " tiles"
             ]
         },
-        "Magic Maze + 1": {
+        {
             "name": "Magic Maze + 1",
             "playerMin": " 1",
             "playerMax": " 8",
@@ -626,7 +626,7 @@
                 "cooperative"
             ]
         },
-        "Ticket to Ride Europe": {
+        {
             "name": "Ticket to Ride Europe",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -635,7 +635,7 @@
                 " train"
             ]
         },
-        "Ticket to Ride New York": {
+        {
             "name": "Ticket to Ride New York",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -644,7 +644,7 @@
                 " train"
             ]
         },
-        "Perudo": {
+        {
             "name": "Perudo",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -653,7 +653,7 @@
                 " dice"
             ]
         },
-        "Skulls": {
+        {
             "name": "Skulls",
             "playerMin": " 3",
             "playerMax": " 6",
@@ -662,7 +662,7 @@
                 " poker"
             ]
         },
-        "Friday": {
+        {
             "name": "Friday",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -671,7 +671,7 @@
                 " thematic"
             ]
         },
-        "Nuns on the Run": {
+        {
             "name": "Nuns on the Run",
             "playerMin": " 3",
             "playerMax": " 7",
@@ -680,7 +680,7 @@
                 " semi cooperative"
             ]
         },
-        "Quoridor": {
+        {
             "name": "Quoridor",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -689,7 +689,7 @@
                 " abstract"
             ]
         },
-        "Katamino": {
+        {
             "name": "Katamino",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -698,7 +698,7 @@
                 " abstract"
             ]
         },
-        "Saboteur + 1": {
+        {
             "name": "Saboteur + 1",
             "playerMin": " 2",
             "playerMax": " 10",
@@ -707,7 +707,7 @@
                 " semi cooperative"
             ]
         },
-        "Dobble": {
+        {
             "name": "Dobble",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -716,7 +716,7 @@
                 " pictures"
             ]
         },
-        "Tangram": {
+        {
             "name": "Tangram",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -725,7 +725,7 @@
                 " abstract"
             ]
         },
-        "Rush Hour": {
+        {
             "name": "Rush Hour",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -734,7 +734,7 @@
                 " puzzle"
             ]
         },
-        "Anti Virus": {
+        {
             "name": "Anti Virus",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -744,7 +744,7 @@
                 "puzzle"
             ]
         },
-        "Tantrix": {
+        {
             "name": "Tantrix",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -754,7 +754,7 @@
                 "tiles"
             ]
         },
-        "solo game with rotating pices": {
+        {
             "name": "solo game with rotating pices",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -763,7 +763,7 @@
                 " puzzle"
             ]
         },
-        "Silver and Gold": {
+        {
             "name": "Silver and Gold",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -773,7 +773,7 @@
                 "cards"
             ]
         },
-        "Maquis": {
+        {
             "name": "Maquis",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -782,7 +782,7 @@
                 " thematic"
             ]
         },
-        "Carcasonne + 5": {
+        {
             "name": "Carcasonne + 5",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -791,7 +791,7 @@
                 " tiles"
             ]
         },
-        "Brains Japones Garden": {
+        {
             "name": "Brains Japones Garden",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -800,7 +800,7 @@
                 " abstract"
             ]
         },
-        "Not Alone": {
+        {
             "name": "Not Alone",
             "playerMin": " 2",
             "playerMax": " 7",
@@ -809,7 +809,7 @@
                 " semi cooperative"
             ]
         },
-        "Condottiere": {
+        {
             "name": "Condottiere",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -818,7 +818,7 @@
                 " area control"
             ]
         },
-        "Epic Galaxies": {
+        {
             "name": "Epic Galaxies",
             "playerMin": " 1",
             "playerMax": " 5",
@@ -828,7 +828,7 @@
                 "dice"
             ]
         },
-        "Epic Kingdoms": {
+        {
             "name": "Epic Kingdoms",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -837,7 +837,7 @@
                 " area control"
             ]
         },
-        "Epic Quest": {
+        {
             "name": "Epic Quest",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -846,7 +846,7 @@
                 " worker placement"
             ]
         },
-        "Epic Mechs": {
+        {
             "name": "Epic Mechs",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -855,7 +855,7 @@
                 " area control"
             ]
         },
-        "Epic Zombie": {
+        {
             "name": "Epic Zombie",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -864,7 +864,7 @@
                 " semi cooperative"
             ]
         },
-        "One Deck Dungeon": {
+        {
             "name": "One Deck Dungeon",
             "playerMin": " 1",
             "playerMax": " 2",
@@ -873,7 +873,7 @@
                 " dice"
             ]
         },
-        "Bandido": {
+        {
             "name": "Bandido",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -882,7 +882,7 @@
                 " cards"
             ]
         },
-        "Kuhhandel Master": {
+        {
             "name": "Kuhhandel Master",
             "playerMin": " 3",
             "playerMax": " 6",
@@ -891,7 +891,7 @@
                 " cards"
             ]
         },
-        "Schotten Totten": {
+        {
             "name": "Schotten Totten",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -901,7 +901,7 @@
                 "poker"
             ]
         },
-        "The Game": {
+        {
             "name": "The Game",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -911,7 +911,7 @@
                 "cooperative"
             ]
         },
-        "Onirim": {
+        {
             "name": "Onirim",
             "playerMin": " 1",
             "playerMax": " 2",
@@ -922,7 +922,7 @@
                 "cooperative"
             ]
         },
-        "Railroad Ink": {
+        {
             "name": "Railroad Ink",
             "playerMin": " 1",
             "playerMax": " 6",
@@ -932,7 +932,7 @@
                 "roll and write"
             ]
         },
-        "Hack Trick": {
+        {
             "name": "Hack Trick",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -941,7 +941,7 @@
                 " abstract"
             ]
         },
-        "Citadels": {
+        {
             "name": "Citadels",
             "playerMin": " 3",
             "playerMax": " 8",
@@ -950,7 +950,7 @@
                 " cards"
             ]
         },
-        "Coup + 1": {
+        {
             "name": "Coup + 1",
             "playerMin": " 3",
             "playerMax": " 6",
@@ -960,7 +960,7 @@
                 "poker"
             ]
         },
-        "Doodle City": {
+        {
             "name": "Doodle City",
             "playerMin": " 1",
             "playerMax": " 6",
@@ -969,7 +969,7 @@
                 " roll and write"
             ]
         },
-        "Innovation": {
+        {
             "name": "Innovation",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -978,7 +978,7 @@
                 " cards"
             ]
         },
-        "Amundsen vs Scott": {
+        {
             "name": "Amundsen vs Scott",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -987,7 +987,7 @@
                 " thematic"
             ]
         },
-        "Iota": {
+        {
             "name": "Iota",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -996,7 +996,7 @@
                 " cards"
             ]
         },
-        "Imagine": {
+        {
             "name": "Imagine",
             "playerMin": " 3",
             "playerMax": " 6",
@@ -1006,7 +1006,7 @@
                 "party"
             ]
         },
-        "Palm Island": {
+        {
             "name": "Palm Island",
             "playerMin": " 1",
             "playerMax": " 1",
@@ -1015,7 +1015,7 @@
                 " cards"
             ]
         },
-        "Sherlock Holmes": {
+        {
             "name": "Sherlock Holmes",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -1025,7 +1025,7 @@
                 "deception"
             ]
         },
-        "Roll through the ages Bronce age": {
+        {
             "name": "Roll through the ages Bronce age",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -1034,7 +1034,7 @@
                 " roll and write"
             ]
         },
-        "No siesta": {
+        {
             "name": "No siesta",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1043,7 +1043,7 @@
                 " roll and write"
             ]
         },
-        "Onitama": {
+        {
             "name": "Onitama",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1052,7 +1052,7 @@
                 " abstract"
             ]
         },
-        "Steam + 2": {
+        {
             "name": "Steam + 2",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1062,7 +1062,7 @@
                 "stock market"
             ]
         },
-        "Power Grid + 3": {
+        {
             "name": "Power Grid + 3",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -1072,7 +1072,7 @@
                 "stock market"
             ]
         },
-        "Yinsh": {
+        {
             "name": "Yinsh",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1081,7 +1081,7 @@
                 " abstract"
             ]
         },
-        "Glen More": {
+        {
             "name": "Glen More",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1090,7 +1090,7 @@
                 " worker placement"
             ]
         },
-        "Targi": {
+        {
             "name": "Targi",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1099,7 +1099,7 @@
                 " worker placement"
             ]
         },
-        "Flux Monty Python": {
+        {
             "name": "Flux Monty Python",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -1108,7 +1108,7 @@
                 " cards"
             ]
         },
-        "Soundiculous": {
+        {
             "name": "Soundiculous",
             "playerMin": " 2",
             "playerMax": " 8",
@@ -1118,7 +1118,7 @@
                 "party"
             ]
         },
-        "Crononauts + 1": {
+        {
             "name": "Crononauts + 1",
             "playerMin": " 1",
             "playerMax": " 5",
@@ -1127,7 +1127,7 @@
                 " cards"
             ]
         },
-        "The mind": {
+        {
             "name": "The mind",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1137,7 +1137,7 @@
                 "cooperative"
             ]
         },
-        "Qwirkle cards": {
+        {
             "name": "Qwirkle cards",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1146,7 +1146,7 @@
                 " cards"
             ]
         },
-        "Simply Ingenious Cards": {
+        {
             "name": "Simply Ingenious Cards",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1155,7 +1155,7 @@
                 " tiles"
             ]
         },
-        "Cafe International Cards": {
+        {
             "name": "Cafe International Cards",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1164,7 +1164,7 @@
                 " cards"
             ]
         },
-        "Galaxy Trucker + 1": {
+        {
             "name": "Galaxy Trucker + 1",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1173,7 +1173,7 @@
                 " construction"
             ]
         },
-        "Catan The fast Card Game": {
+        {
             "name": "Catan The fast Card Game",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1182,7 +1182,7 @@
                 " cards"
             ]
         },
-        "Hanabi": {
+        {
             "name": "Hanabi",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1192,7 +1192,7 @@
                 "cooperative"
             ]
         },
-        "Al Carbone": {
+        {
             "name": "Al Carbone",
             "playerMin": " 1",
             "playerMax": " 2",
@@ -1201,7 +1201,7 @@
                 " cards"
             ]
         },
-        "Wizard Extreme": {
+        {
             "name": "Wizard Extreme",
             "playerMin": " 3",
             "playerMax": " 5",
@@ -1211,7 +1211,7 @@
                 "cards"
             ]
         },
-        "Le Havre": {
+        {
             "name": "Le Havre",
             "playerMin": " 1",
             "playerMax": " 5",
@@ -1220,7 +1220,7 @@
                 " worker placement"
             ]
         },
-        "Thurn and Taxis": {
+        {
             "name": "Thurn and Taxis",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1229,7 +1229,7 @@
                 " trains"
             ]
         },
-        "K2": {
+        {
             "name": "K2",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1238,7 +1238,7 @@
                 " thematic"
             ]
         },
-        "Colt Express": {
+        {
             "name": "Colt Express",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -1248,7 +1248,7 @@
                 "thematic"
             ]
         },
-        "Small World Underground": {
+        {
             "name": "Small World Underground",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1257,7 +1257,7 @@
                 " area control"
             ]
         },
-        "Fog of Love + 3": {
+        {
             "name": "Fog of Love + 3",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1266,7 +1266,7 @@
                 " story"
             ]
         },
-        "The Crew": {
+        {
             "name": "The Crew",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1277,7 +1277,7 @@
                 "cooperative"
             ]
         },
-        "Clank in Space": {
+        {
             "name": "Clank in Space",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1286,7 +1286,7 @@
                 " deck building"
             ]
         },
-        "Gravity Super Star": {
+        {
             "name": "Gravity Super Star",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -1295,7 +1295,7 @@
                 " thematic"
             ]
         },
-        "Imperial Settlers of the North": {
+        {
             "name": "Imperial Settlers of the North",
             "playerMin": " 1",
             "playerMax": " 4",
@@ -1305,7 +1305,7 @@
                 "drafting"
             ]
         },
-        "Love Letter": {
+        {
             "name": "Love Letter",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1314,7 +1314,7 @@
                 " cards"
             ]
         },
-        "Point Salad": {
+        {
             "name": "Point Salad",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -1323,7 +1323,7 @@
                 " cards"
             ]
         },
-        "Fox in the Forest": {
+        {
             "name": "Fox in the Forest",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1333,7 +1333,7 @@
                 "cards"
             ]
         },
-        "Imhotep Duel": {
+        {
             "name": "Imhotep Duel",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1342,7 +1342,7 @@
                 " abstract"
             ]
         },
-        "King of New York": {
+        {
             "name": "King of New York",
             "playerMin": " 2",
             "playerMax": " 6",
@@ -1351,7 +1351,7 @@
                 " party"
             ]
         },
-        "Detective": {
+        {
             "name": "Detective",
             "playerMin": " 1",
             "playerMax": " 3",
@@ -1361,7 +1361,7 @@
                 "story"
             ]
         },
-        "It's a wonderful world + 1": {
+        {
             "name": "It's a wonderful world + 1",
             "playerMin": " 2",
             "playerMax": " 5",
@@ -1371,7 +1371,7 @@
                 "drafting"
             ]
         },
-        "Ohanami": {
+        {
             "name": "Ohanami",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1380,7 +1380,7 @@
                 " cards"
             ]
         },
-        "Decrypto": {
+        {
             "name": "Decrypto",
             "playerMin": " 4",
             "playerMax": " 8",
@@ -1390,7 +1390,7 @@
                 "party"
             ]
         },
-        "Harry Potter Hogwards Battle Defense against the Dark Arts": {
+        {
             "name": "Harry Potter Hogwards Battle Defense against the Dark Arts",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1400,7 +1400,7 @@
                 "deck building"
             ]
         },
-        "Claim + 3": {
+        {
             "name": "Claim + 3",
             "playerMin": " 2",
             "playerMax": " 2",
@@ -1410,7 +1410,7 @@
                 "trick taking"
             ]
         },
-        "Artischocken": {
+        {
             "name": "Artischocken",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1419,7 +1419,7 @@
                 " cards"
             ]
         },
-        "Repello": {
+        {
             "name": "Repello",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1428,7 +1428,7 @@
                 " abstract"
             ]
         },
-        "Stone Age": {
+        {
             "name": "Stone Age",
             "playerMin": " 2",
             "playerMax": " 4",
@@ -1437,8 +1437,6 @@
                 " worker placement"
             ]
         }
-
-    }
     
-}
+]
 

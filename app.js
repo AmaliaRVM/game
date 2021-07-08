@@ -26,7 +26,7 @@ const getGame = function () {
         randomGame = data[randomNumber]
         
         gameTag.innerHTML = randomGame.name;
-        playersTag.innerHTML = randomGame.playerMax;
+        playersTag.innerHTML = randomGame.playerMin;
     }
 
 }

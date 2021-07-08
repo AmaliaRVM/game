@@ -33,9 +33,9 @@ const getGame = function (data) {
 }
 
 
-randomTag.addEventListener("click", function () {
+randomTag.addEventListener("click", function (data) {
     console.log('click')
-    getGame()
+    getGame(data)
 
 })
 

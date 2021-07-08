@@ -24,6 +24,7 @@ const getGame = function () {
     if(data.length > 0){
         randomNumber = Math.floor(Math.random() * data.length)
         randomGame = data[randomNumber]
+        console.log(randomGame.name)
         
         gameTag.innerHTML = randomGame.name;
         playersTag.innerHTML = randomGame.playerMin;

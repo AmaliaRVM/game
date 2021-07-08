@@ -33,7 +33,7 @@ const getGame = function () {
 
 
 randomTag.addEventListener("click", function () {
-    
+    console.log('click')
     getGame()
 
 })

@@ -14,12 +14,12 @@ async function catchData(){
     const data = await response.json();
     console.log(data);
 
-    getGame()
+    getGame(data)
 }
 
 
 
-const getGame = function () {
+const getGame = function (data) {
 
     if(data.length > 0){
         randomNumber = Math.floor(Math.random() * data.length)

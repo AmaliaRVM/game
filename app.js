@@ -5,6 +5,18 @@ const randomTag = document.querySelector("footer img");
 let data = [];
 
 
+catchData().catch(error =>{
+    console.log("error")
+})
+
+async function catchData(){
+    const response = await fetch("data.json");
+    const data = await response.json();
+    console.log(data);
+}
+
+
+
 const getGame = function () {
 
     if(data.length > 0){

@@ -2,7 +2,7 @@ const gameTag = document.querySelector("h2");
 const playersTag = document.querySelector("p");
 const randomTag = document.querySelector("footer img");
 
-let data = [];
+let data = {};
 
 
 catchData().catch(error =>{
@@ -13,6 +13,8 @@ async function catchData(){
     const response = await fetch("data.json");
     const data = await response.json();
     console.log(data);
+
+    getGame()
 }
 
 

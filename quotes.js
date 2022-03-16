@@ -7,13 +7,11 @@ const url = "https://api.superhi.com/api/test/quotes/";
 let data = [];
 
 //fetch
-fetch("quotes.json")
-.then (function(response){
+/* fetch("quotes.json").then(function(response){
     return response.json
-}) 
-.then(function(dataJson){
+}).then(function(dataJson){
     console.log(dataJson)
-})
+}) */
 
 //get quote function
 const getQuote = function (){

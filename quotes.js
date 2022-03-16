@@ -2,7 +2,14 @@ const quoteTag = document.querySelector('h1');
 const authorTag = document.querySelector('p');
 const randomButton = document.querySelector('img');
 
+const url = "https://api.superhi.com/api/test/quotes/";
+
 let data = [];
+
+//fetch
+fetch("quotes.json")
+.then(response => response.json)
+.then(jsonData => console.log(jsonData));
 
 //get quote function
 const getQuote = function (){

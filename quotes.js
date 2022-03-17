@@ -1,24 +1,29 @@
 const quoteTag = document.querySelector('h1');
 const authorTag = document.querySelector('p');
 const randomButton = document.querySelector('img');
+const bodyTag = document.querySelector('body');
 
 
-const url = "https://api.superhi.com/api/test/quotes/";
+//const with API list of objects (example number one)
+/* const url = "https://api.superhi.com/api/test/quotes/"; */
 
-let data = [];
+
+/* let data = []; */
+
 
 const colors = ['#e775eb', '#7581eb', '#ce3434', '#75ebb4'];
 
-//fetch
-catchData();
+//fetch (example number one)
+/* catchData();
 
 async function catchData (){
     const response = await fetch(url);
     const json = await response.json();
     data = json
     getQuote() 
-}
+} */
 
+//another way of writing fetch
 /* fetch(url)
 .then(response => response.json())
 .then((jsonData) => {
@@ -27,8 +32,8 @@ async function catchData (){
 } 
 ) */
 
-//get quote function
-const getQuote = function (){
+//get quote function (example number one)
+/* const getQuote = function (){
 
     if (data.length > 0){
         
@@ -49,7 +54,35 @@ const getQuote = function (){
 
     }
 
+} */
+
+//Example number two, with another endpoint
+
+//const with API single object (example number two)
+const url = "https://api.superhi.com/api/test/quotes/random"; 
+
+const getQuote = function () {
+
+    fetch(url)
+    .then(response => response.json())
+    .then((jsonData) => {
+
+        quoteTag.innerHTML = "&ldquo;" + jsonData.quote + "&rdquo;"
+        authorTag.innerHTML = "&mdash; " + jsonData.author  
+
+        if(jsonData.quote.length > 100){
+            quoteTag.classList.add("long")
+        }else{
+            quoteTag.classList.remove("long")
+        }
+
+        bodyTag.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 90%)`
+
+    } )
 }
+
+getQuote();
+
 
 //click event
 randomButton.addEventListener('click', (e)=>{
